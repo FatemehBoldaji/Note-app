@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FatemehBoldaji/Note-app.git/static/css/main.b2f5df9d.css",
+    "main.js": "/FatemehBoldaji/Note-app.git/static/js/main.a4f578a4.js",
+    "index.html": "/FatemehBoldaji/Note-app.git/index.html",
+    "main.b2f5df9d.css.map": "/FatemehBoldaji/Note-app.git/static/css/main.b2f5df9d.css.map",
+    "main.a4f578a4.js.map": "/FatemehBoldaji/Note-app.git/static/js/main.a4f578a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f5df9d.css",
+    "static/js/main.a4f578a4.js"
+  ]
+}
